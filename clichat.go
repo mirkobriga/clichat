@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mirkobriga/ufirst/client"
-	"github.com/mirkobriga/ufirst/server"
+	"github.com/mirkobriga/clichat/client"
+	"github.com/mirkobriga/clichat/server"
 )
 
 func main() {
