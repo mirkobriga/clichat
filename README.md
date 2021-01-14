@@ -1,3 +1,10 @@
+## Create certs
+
+```bash
+chmod +x makecert
+./makecer
+```
+
 ## Run Server
 
 ```bash
